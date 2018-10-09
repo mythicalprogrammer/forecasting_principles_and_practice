@@ -13,5 +13,5 @@ ipak <- function(pkg){
 }
 
 # usage
-packages <- c("fpp2")
+packages <- c("fpp2", "GGally")
 ipak(packages)
